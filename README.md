@@ -87,10 +87,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/Ecoleta
+$ git clone https://github.com/naMoraezDev/Ecoleta-Full-Stack-App.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Ecoleta
+$ cd Ecoleta-Full-Stack-App-main
 
 # Vá para a pasta server
 $ cd backend
@@ -114,10 +114,10 @@ $ yarn dev
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/Ecoleta
+$ git clone https://github.com/naMoraezDev/Ecoleta-Full-Stack-App.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Ecoleta
+$ cd Ecoleta-Full-Stack-App-main
 
 # Vá para a pasta da aplicação Front End
 $ cd frontend
@@ -141,10 +141,10 @@ $ yarn start
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/Ecoleta
+$ git clone https://github.com/naMoraezDev/Ecoleta-Full-Stack-App.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Ecoleta
+$ cd Ecoleta-Full-Stack-App-main
 
 # Vá para a pasta da aplicação Front End
 $ cd mobile
