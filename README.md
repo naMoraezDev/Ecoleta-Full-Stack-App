@@ -180,4 +180,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-Feito com ❤️ por mim, Gabriel Moraes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gabriel-moraes-5572b2145/)
+Feito com ❤️ por mim, Gabriel Moraes :wave: [Entre em contato!](https://www.linkedin.com/in/gabriel-moraes-5572b2145/)
