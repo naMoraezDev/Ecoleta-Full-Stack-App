@@ -70,8 +70,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
+1. Backend (pasta backend) 
+2. Frontend (pasta frontend)
 3. Mobile (pasta mobile)
 
 💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
@@ -87,19 +87,23 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/naMoraezDev/Ecoleta
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
+$ cd Ecoleta
 
 # Vá para a pasta server
-$ cd server
+$ cd backend
 
 # Instale as dependências
-$ npm install
+$ npm install 
+ou 
+$ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server
+ou
+$ yarn dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
@@ -110,19 +114,23 @@ $ npm run dev:server
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/naMoraezDev/Ecoleta
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd Ecoleta
 
 # Vá para a pasta da aplicação Front End
-$ cd web
+$ cd frontend
 
 # Instale as dependências
 $ npm install
+ou
+$ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
+ou
+$ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
