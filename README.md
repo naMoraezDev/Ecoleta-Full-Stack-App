@@ -136,6 +136,31 @@ $ yarn start
 
 ```
 
+#### :space_invader: Rodando a aplicação mobile (mobile)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/naMoraezDev/Ecoleta
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Ecoleta
+
+# Vá para a pasta da aplicação Front End
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+ou
+$ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+ou
+$ yarn start
+
+```
+
 ---
 
 ## 🛠 Tecnologias
