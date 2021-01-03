@@ -136,7 +136,7 @@ $ yarn start
 
 ```
 
-#### :space_invader: Rodando a aplicação mobile (mobile)
+#### :iphone: Rodando a aplicação mobile (mobile)
 
 ```bash
 
