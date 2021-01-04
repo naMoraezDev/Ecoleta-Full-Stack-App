@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/banner.png" />
+    <img alt="Banner" title="Banner" src="./.github/banner.png" />
 </h1>
 
 <h4 align="center"> 
@@ -52,9 +52,9 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/home-mobile.png" width="200px">
+  <img alt="Layout" title="Layout" src="./.github/home-mobile.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/detalhes-mobile.svg" width="200px">
+  <img alt="Layout" title="Layout" src="./.github/detalhes-mobile.svg" width="200px">
 </p>
 
 ### Web
